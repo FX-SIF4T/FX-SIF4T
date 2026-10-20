@@ -34,7 +34,7 @@
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
 
-## ðŸ“¬ Connect With Me
+## CONTACT ME 
 
 <p align="center">
   <a href="https://facebook.com/sifatx404" target="_blank">
@@ -54,6 +54,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=FX-SIF4T&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15" />
+</p>
+
 
 # 🤝 Let's Build Something Meaningful
 __
@@ -61,6 +65,10 @@ __
 I build useful software and enjoy turning ambitious ideas into working products.
 
 
+<br>
+<img src="https://count.getloli.com/get/@:FX-SIF4T?theme=gelbooru" />
+
+<br>
 
 
 
