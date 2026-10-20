@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 [![Hero Banner](https://www.gitskins.com/api/readme-reference/hero?username=FX-SIF4T&theme=neon&role=Full-stack%20Developer&location=Building%20from%20the%20open%20web&v=readme-reference-2)](https://github.com/FX-SIF4T)
 
@@ -11,7 +11,6 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
-<p align="center">
 
 ## City View
 
@@ -20,7 +19,6 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
-<p align="center">
 
 ## Tech Stack & Skills
 
@@ -35,4 +33,4 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
-</p>
+</div>
