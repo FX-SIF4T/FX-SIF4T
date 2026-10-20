@@ -40,7 +40,7 @@
   <a href="https://facebook.com/sifatx404" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/fx-sif4t" target="_blank">
+  <a href="https://instagram.com/f_x_sifat" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/fx_sifat" target="_blank">
