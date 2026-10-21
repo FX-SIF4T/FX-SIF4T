@@ -6,7 +6,7 @@
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
 
-  <img src="https://www.gitskins.com/api/section/galaxy?username=FX-SIF4T&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218384821%3Fu%3D484a37e7032767ea18e97137288d71faf2689d3e%26v%3D4" alt="Galaxy Section" width="100%" />
+  <img src="https://www.gitskins.com/api/section/galaxy?username=FX-SIF4T&theme=midnight&avatar=https://camo.githubusercontent.com/ad255c0d8744f2438e1af7f35d56af0071a48f25049687a2e022c9eea0b85d1d/68747470733a2f2f7777772e676974736b696e732e636f6d2f6170692f73656374696f6e2f67616c6178793f757365726e616d653d46582d5349463454267468656d653d6d69646e69676874266176617461723d6874747073253341253246253246617661746172732e67697468756275736572636f6e74656e742e636f6d2532467525324632313833383438323125334675253344343834613337653730333237363765613138653937313337323838643731666166323638396433652532367625334434" alt="Galaxy Section" width="100%" />
 </p>
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
