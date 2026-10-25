@@ -8,8 +8,11 @@
   <img src="https://www.gitskins.com/api/section/galaxy?username=fx-sif4t&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218384821%3Fu%3D484a37e7032767ea18e97137288d71faf2689d3e%26v%3D4" alt="Galaxy Section" width="100%" />
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
-
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
+<p align="center">
+  <a href="https://www.facebook.com/sifatx404">
+  <img src="https://raw.githubusercontent.com/FX-SIF4T/FX-SIF4T/main/assests/Rainbow.gif" width="100%">
+  </a>
+</p>
 
 
 ## TECH STACK & SKILLS 
@@ -39,7 +42,7 @@
 </div>
 <p align="center">
   <a href="https://www.facebook.com/sifatx404">
-  <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/FX-SIF4T/FX-SIF4T/main/assests/Rainbow.gif" width="100%">
   </a>
 </p>
 
