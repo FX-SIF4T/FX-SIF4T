@@ -9,12 +9,6 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
-
-## CONTRIBUTION CITY 
-
-  <img src="https://www.gitskins.com/api/section/city?username=FX-SIF4T&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218384821%3Fu%3D484a37e7032767ea18e97137288d71faf2689d3e%26v%3D4" alt="City Section" width="100%" />
-</p>
-
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
 
@@ -26,8 +20,29 @@
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
 
-  <img src="https://www.gitskins.com/api/section/stack?username=FX-SIF4T&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218384821%3Fu%3D484a37e7032767ea18e97137288d71faf2689d3e%26v%3D4&v=showcase-stack-4" alt="Stack Section" width="100%" />
+  <div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%; max-width: 850px;">
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none; padding: 4px;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FX-SIF4T&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FX-SIF4T&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
+      </td>
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FX-SIF4T&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
+      </td>
+    </tr>
+  </table>
+</div>
+<p align="center">
+  <a href="https://www.facebook.com/sifatx404">
+  <img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%">
+  </a>
 </p>
+
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
