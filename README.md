@@ -15,10 +15,11 @@
 </p>
 
 
-## TECH STACK & SKILLS 
+## TECH STACK & SKILLS
 
-  <img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Cpython%2Chtml%2Ccss%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cmongodb%2Cpostgresql%2Cdocker%2Cgit%2Ctailwind%2Cgo%2Clinux&perline=8&theme=dark" alt="Tech Stack Icons" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,express,mongodb,docker,git,tailwind&theme=dark" width="700" />
+</div>
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
