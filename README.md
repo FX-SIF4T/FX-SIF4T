@@ -79,10 +79,11 @@ __
 I build useful software and enjoy turning ambitious ideas into working products.
 
 
-<br>
-<img src="https://count.getloli.com/get/@:FX-SIF4T?theme=gelbooru" />
+<br/>
 
-<br>
+<img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="Visitor Count" />
+
+<br/><br/>
 
 
 
