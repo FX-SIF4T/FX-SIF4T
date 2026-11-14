@@ -5,7 +5,7 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
-  <img src="https://www.gitskins.com/api/section/galaxy?username=fx-sif4t&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F218384821%3Fu%3D484a37e7032767ea18e97137288d71faf2689d3e%26v%3D4" alt="Galaxy Section" width="100%" />
+<img src="https://fxs-gitfolio.vercel.app/api/public/galaxy?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Solar system" width="100%" />
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 <p align="center">
@@ -17,9 +17,7 @@
 
 ## TECH STACK & SKILLS
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,express,mongodb,docker,git,tailwind&theme=dark" width="700" />
-</div>
+<img src="https://fxs-gitfolio.vercel.app/api/public/skills?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer&i=js%2Cts%2Cpython%2Chtml%2Ccss%2Creact%2Ctailwind%2Cnodejs%2Cexpress%2Cmongodb%2Cdocker%2Cgit" alt="Tech stack" width="100%" />
 
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
 
