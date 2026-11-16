@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Hero Banner](https://www.gitskins.com/api/readme-reference/hero?username=FX-SIF4T&theme=neon&role=Full-stack%20Developer&location=Building%20from%20the%20open%20web&v=readme-reference-2)](https://github.com/FX-SIF4T)
+[![Hero Banner](https://fxs-gitfolio.vercel.app/api/public/hero?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer&bg=https%3A%2F%2Fimgur.com%2Fz8U4Snm)](https://github.com/FX-SIF4T)
 
-
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
+<img src="https://fxs-gitfolio.vercel.app/api/public/divider?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Signature divider" width="100%" />
 
 <img src="https://fxs-gitfolio.vercel.app/api/public/galaxy?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Solar system" width="100%" />
 
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
+<img src="https://fxs-gitfolio.vercel.app/api/public/divider?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Signature divider" width="100%" />
+
 <p align="center">
   <a href="https://www.facebook.com/sifatx404">
   <img src="https://raw.githubusercontent.com/FX-SIF4T/FX-SIF4T/main/assests/Rainbow.gif" width="100%">
@@ -19,7 +19,7 @@
 
 <img src="https://fxs-gitfolio.vercel.app/api/public/skills?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer&i=js%2Cts%2Cpython%2Chtml%2Ccss%2Creact%2Ctailwind%2Cnodejs%2Cexpress%2Cmongodb%2Cdocker%2Cgit" alt="Tech stack" width="100%" />
 
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
+<img src="https://fxs-gitfolio.vercel.app/api/public/divider?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Signature divider" width="100%" />
 
 
   <div align="center">
@@ -46,7 +46,7 @@
 </p>
 
 
-<img src="https://www.gitskins.com/api/readme-reference/divider?username=FX-SIF4T&theme=neon&v=readme-reference-2" />
+<img src="https://fxs-gitfolio.vercel.app/api/public/divider?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Signature divider" width="100%" />
 
 
 ## CONTACT ME 
@@ -72,12 +72,15 @@
 
 
 # 🤝 Let's Build Something Meaningful
-__
+<img src="https://fxs-gitfolio.vercel.app/api/public/divider?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Signature divider" width="100%" />
 
 I build useful software and enjoy turning ambitious ideas into working products.
 
 
 <br/>
+<img src="https://fxs-gitfolio.vercel.app/api/public/divider?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Signature divider" width="100%" />
+
+<img src="https://fxs-gitfolio.vercel.app/api/public/profile-details?username=FX-SIF4T&theme=anime&style=anime&role=Full-stack+Developer" alt="Profile activity" width="100%" />
 
 <img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="Visitor Count" />
 
